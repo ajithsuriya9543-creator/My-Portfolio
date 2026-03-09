@@ -50,6 +50,7 @@ Your Name
 ## 📄 License
 
 Author: Suriya K
-GitHub: 
+
+GitHub:  https://github.com/ajithsuriya9543-creator/My-Portfolio.git
 
 This project is open source and free to use.
